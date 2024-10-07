@@ -79,9 +79,7 @@ $$
 ## Insight
 본 프로젝트를 통하여 다음과 같은 인사이트를 도출할 수 있었다. 
 
-[데이터 분석을 통한 인사이트 추출 바로가기 ](./data_analysis_insight.md)
 
-[딥러닝을 통한 인사이트 추출 바로가기 ](./deep_learning_insight.md)
 <details>
   <summary>딥러닝을 통한 인사이트 바로보기 </summary>
 
